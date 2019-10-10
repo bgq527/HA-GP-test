@@ -162,7 +162,7 @@ product: Generic Product
    </tbody>
 </table>
 
-{% include tip.html content="You can store the `sidebar` and `product` frontmatter as defaults in your project's \_config.yml file." %}
+```{% include tip.html content="You can store the `sidebar` and `product` frontmatter as defaults in your project's \_config.yml file." %}```
 
 ```
 defaults:
