@@ -1,6 +1,5 @@
 ---
 title: "Jekyll Doc Project: A Jekyll theme for documentation"
-permalink: index.html
 sidebar: jekyllhowto
 type: homepage
 class: first
