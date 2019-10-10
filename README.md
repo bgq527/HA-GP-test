@@ -1,1 +1,0 @@
-# HA-GP-test
