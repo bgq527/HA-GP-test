@@ -208,4 +208,4 @@ navbar-toggle: none
 
 You configure the footer through the options in \_data/footer.yml.
 
-{% include links.html %}
+```{% include links.html %}```
