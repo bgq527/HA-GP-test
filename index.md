@@ -6,7 +6,7 @@ layout: default
 ## Hello? Like what even is life
 
 <p align="center">
-  <img width="300" height="393" src="/docs/md.png">
+  <img width="300" height="393" src="md.png">
 </p>
 
 # HerbASAP
