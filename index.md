@@ -1,11 +1,5 @@
 ---
-title: "HerbASAP"
-permalink: index.html
-sidebar: Homepage
-type: homepage
-class: first
-custom_breadcrumb: Getting Started
-
+layout: default
 ---
 
 <p align="center">
