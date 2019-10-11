@@ -17,7 +17,7 @@ title: HerbASAP
 email: calebadampowell@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Herbarium sheet image post processing made automatic
-baseurl: "/HA-GP-test" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bgq527.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  CapPow
